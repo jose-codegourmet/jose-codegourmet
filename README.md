@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Jose, a Fullstack Developer with 7 years of experience. 🚀
 
+## About Me 💬
+
+I'm passionate about crafting clean and efficient code to build web applications that provide seamless user experiences. My journey as a developer has exposed me to a wide range of technologies, and I'm always eager to learn and explore new tools and frameworks.
+
 ## Technologies and Tools 🛠️
 
 Here are some of the tools and technologies I'm proficient with:
@@ -13,9 +17,7 @@ Here are some of the tools and technologies I'm proficient with:
 | Design             | Figma, Adobe Tools                                |
 | Testing            | Jest, Cypress, Playwright, React Testing Library                         |
 
-## About Me 💬
 
-I'm passionate about crafting clean and efficient code to build web applications that provide seamless user experiences. My journey as a developer has exposed me to a wide range of technologies, and I'm always eager to learn and explore new tools and frameworks.
 
 
 ## Get in Touch 📬
