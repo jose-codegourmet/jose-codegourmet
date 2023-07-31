@@ -10,10 +10,10 @@ Here are some of the tools and technologies I'm proficient with:
 
 | Category           | Tools                                             |
 | ------------------ | ------------------------------------------------- |
-| Frontend           | React, Next.js, Vite, Shopify, MeteorJS, Webpack, Redux, Tailwind CSS, Sass, CSS, HTML, JavaScript, TypeScript, GraphQL, GatsbyJS, Styled Components, Storybook, Remix, Hydrogen |
+| Frontend           | React, Next.js,  Shopify, MeteorJS, Webpack, Redux, Tailwind CSS, Sass, CSS, HTML, JavaScript, TypeScript, GraphQL, GatsbyJS, Styled Components, Storybook, Remix, Hydrogen, MSW |
 | Backend            | Node.js, Express.js, GoLang, PHP                               |
 | Database           | PostgreSQL, Prisma ORM, MongoDB, SQL                                       |
-| Build Tools        | Gulp, Webpack                                    |
+| Build Tools        | Gulp, Webpack, Vite                                    |
 | Design             | Figma, Adobe Tools                                |
 | Testing            | Jest, Cypress, Playwright, React Testing Library                         |
 
