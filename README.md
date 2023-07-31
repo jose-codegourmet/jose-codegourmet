@@ -30,9 +30,7 @@ If you'd like to collaborate on a project or just want to say hi, feel free to r
 
 Looking forward to connecting with you! Happy coding! 🚀
 
-## Stats 📈
 
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-codegourmet&show=reviews&show_icons=true&theme=dracula)![Jose's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-codegourmet&layout=compact&theme=dracula)
 
 
 
